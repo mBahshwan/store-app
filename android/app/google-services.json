@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983247057238",
+    "project_id": "electronics-store-948cc",
+    "storage_bucket": "electronics-store-948cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983247057238:android:4bab43f32f19c6c9f366f7",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983247057238-v22raar0v9k6335v4oj2bqfheouoli2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5owwncW6jga8IZhfCFI0if0gTf-svXq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983247057238-v22raar0v9k6335v4oj2bqfheouoli2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
